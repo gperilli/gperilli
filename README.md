@@ -41,16 +41,10 @@
 <!--![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)-->
 <!-- ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) -->
 <!-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) -->
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
-<p align="left">
-  <a href="https://github.com/peterthehan"><img alt="GitHub" height="32" width="32" src="assets/github.svg"></a>
-  <a href="https://www.npmjs.com/~peterthehan"><img alt="npm" height="32" width="32" src="assets/npm.svg"></a>
-  <a href="https://www.linkedin.com/in/peterthehan"><img alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
-</p>
--->
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gperilli&langs_count=8)](https://github.com/gperilli/github-readme-stats)
 -->
 
 <!---
