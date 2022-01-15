@@ -42,7 +42,7 @@
 <!-- ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) -->
 <!-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) -->
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gperilli&layout=compact)](https://github.com/gperilli/github-readme-stats)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gperilli&langs_count=8)](https://github.com/gperilli/github-readme-stats)
 -->
