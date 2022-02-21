@@ -8,7 +8,7 @@
 - 📫 How to reach me: You can reach me by going to my [profile page](https://www.gperilli.dev/). I check [linkedin](https://www.linkedin.com/in/garethperilli) every so often so you can also message me from there.
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gperilli&layout=compact)](https://github.com/gperilli/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkemlord&layout=compact)](https://github.com/darkemlord/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=gperilli&color=green)
 
