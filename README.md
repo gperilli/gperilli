@@ -3,8 +3,8 @@
 
 - 👋 Hi, I’m Gareth, a web developer
 - 👀 I’m interested in coding, music, language learning.
-- 🌱 I’m currently learning a load of web dev. tech. such as React, Wordpress, and Ruby.
-- 💞️ I’m looking to collaborate on web dev. projects, music projects, music apps, and anything conected to my projects here on github.
+- 🌱 There's a never ending amount of stuff to learn, but I'm currently working more with React, Next.js, and Three.js.
+- 💞️ I’m looking to collaborate on web dev. projects, and anything conected to my projects here on github or my profile page.
 - 📫 How to reach me: You can reach me by going to my [profile page](https://www.gperilli.dev/). I check [linkedin](https://www.linkedin.com/in/garethperilli) every so often so you can also message me from there.
 
 ---
