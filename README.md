@@ -1,5 +1,5 @@
 
-# [Gareth Perilli](https://www.gperilli.dev/
+# [Gareth Perilli](https://www.gperilli.dev/)
 
 - 👋 Hi, I’m Gareth, a web developer
 - 👀 I’m interested in coding, music, language learning.
